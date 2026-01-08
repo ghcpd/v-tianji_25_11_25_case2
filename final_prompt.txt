@@ -1,0 +1,40 @@
+Prompt
+
+Problem Statement:
+I want a nutrition tracker where I can log meals, see daily/weekly calories, and get progress charts. Build a small, modern, visually polished, interactive Web UI project from scratch using Vue or React (your choice).
+
+Requirements:
+
+Create a complete runnable project from zero.
+
+Generate full test coverage (unit + simple E2E).
+
+All tests must run and pass.
+
+Finally, run the project to ensure it boots successfully.
+
+If anything fails, fix it and re-run until everything passes.
+
+Do not assume success—treat it as a real execution environment.
+
+Deliverables:
+
+Full project structure
+
+All source code files
+
+All test files
+
+All configuration files
+
+Commands used to install, test, and run
+
+Logs from running tests and launching the dev server
+
+Short summary after successful run
+
+Title:
+Nutrition Tracker Web UI Generation & Full Test Execution
+
+Description:
+This task evaluates the model’s ability to design and implement a complete, aesthetically polished nutrition tracker web interface from scratch, write and execute tests end-to-end, iteratively fix issues, and successfully launch the final application—treating the workflow exactly as a real development environment.
